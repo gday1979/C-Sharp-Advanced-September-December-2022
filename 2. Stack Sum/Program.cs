@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace _2._Stack_Sum
 {
@@ -6,7 +8,7 @@ namespace _2._Stack_Sum
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+                
         }
     }
 }
