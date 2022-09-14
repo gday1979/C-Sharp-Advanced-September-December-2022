@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.InteropServices;
 
 namespace _3._Simple_Calculator
 {
@@ -6,7 +9,25 @@ namespace _3._Simple_Calculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] input = Console.ReadLine().Split(" ");
+            Stack<string> expression = new Stack<string>(input.Reverse());
+            int result = 0;
+            while (expression.Count > 1)
+            {
+                int operand1 = int.Parse(expression.Pop());
+                string Operator = expression.Pop();
+                int operand2 = int.Parse(expression.Pop());
+                if (Operator == "+")
+                {
+                    result = operand1 + operand2;
+                }
+                else 
+                {
+                    result = operand1 - operand2; }
+                expression.Push(result.ToString());
+            }
+            Console.WriteLine(expression.Pop());
+
         }
     }
 }

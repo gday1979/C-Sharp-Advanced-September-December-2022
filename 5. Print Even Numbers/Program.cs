@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace _5._Print_Even_Numbers
 {
@@ -6,7 +8,10 @@ namespace _5._Print_Even_Numbers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           int[] input = Console.ReadLine().Split().Select(int.Parse).Where(x => x % 2 == 0).ToArray();
+            Queue<int> result=new Queue<int>(input);
+            Console.WriteLine(string.Join(", ", result));
+            
         }
     }
 }
