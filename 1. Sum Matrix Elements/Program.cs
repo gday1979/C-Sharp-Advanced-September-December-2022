@@ -6,7 +6,7 @@ namespace _1._Sum_Matrix_Elements
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
         }
     }
 }
