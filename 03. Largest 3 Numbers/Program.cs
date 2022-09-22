@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace _03._Largest_3_Numbers
 {
@@ -6,7 +8,13 @@ namespace _03._Largest_3_Numbers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            List<int> numbers = new List<int>();
+            for (int i = 0; i < numbers.Count; i++)
+            {
+                string[] input = Console.ReadLine().Split();
+
+            }
+
         }
     }
 }

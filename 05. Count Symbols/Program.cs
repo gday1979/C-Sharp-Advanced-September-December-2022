@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace _05._Count_Symbols
 {
@@ -6,7 +7,21 @@ namespace _05._Count_Symbols
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            SortedDictionary<char, int> chars = new SortedDictionary<char, int>();
+            string input = Console.ReadLine();
+            for (int i = 0; i < input.Length; i++)
+            {
+                char ch = input[i];
+                if (!chars.ContainsKey(ch))
+                {
+                    chars.Add(ch, 0);
+                }
+                chars[ch]++;
+            }
+            foreach (var ch in chars)
+            {
+                Console.WriteLine($"{ch.Key}: {ch.Value} time/s");
+            }
         }
     }
 }

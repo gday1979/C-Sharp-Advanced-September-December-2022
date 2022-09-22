@@ -6,7 +6,7 @@ namespace _06._Wardrobe
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
