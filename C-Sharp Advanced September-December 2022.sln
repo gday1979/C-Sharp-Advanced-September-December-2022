@@ -245,19 +245,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.Streams, Files and Direc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.Streams, Files and Dictories-Exe", "04.Streams, Files and Dictories-Exe", "{458887EE-879E-4640-B075-DD1A429848BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Odd Lines", "01. Odd Lines\01. Odd Lines.csproj", "{E05BC5D3-BD3D-40FF-87F3-721D8F3DEE61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Odd Lines", "01. Odd Lines\01. Odd Lines.csproj", "{E05BC5D3-BD3D-40FF-87F3-721D8F3DEE61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Line Numbers", "02. Line Numbers\02. Line Numbers.csproj", "{E74C408A-E39F-40C9-9AA2-A277FD68BC23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Line Numbers", "02. Line Numbers\02. Line Numbers.csproj", "{E74C408A-E39F-40C9-9AA2-A277FD68BC23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Word Count", "03. Word Count\03. Word Count.csproj", "{00C3E9D9-2B03-4E2E-9BF3-DB34CC4CBA93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Word Count", "03. Word Count\03. Word Count.csproj", "{00C3E9D9-2B03-4E2E-9BF3-DB34CC4CBA93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Merge Text Files", "04. Merge Text Files\04. Merge Text Files.csproj", "{DB1E1809-CA06-4CED-B82A-B3F8ED226A93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Merge Text Files", "04. Merge Text Files\04. Merge Text Files.csproj", "{DB1E1809-CA06-4CED-B82A-B3F8ED226A93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Extract Special Bytes", "05. Extract Special Bytes\05. Extract Special Bytes.csproj", "{DCA3222A-3506-4DE7-B56E-29994A7CAB4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Extract Special Bytes", "05. Extract Special Bytes\05. Extract Special Bytes.csproj", "{DCA3222A-3506-4DE7-B56E-29994A7CAB4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Split, Merge Binary Files", "06. Split, Merge Binary Files\06. Split, Merge Binary Files.csproj", "{781CD87B-FFD3-410D-921E-EB5CD17C3FD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Split, Merge Binary Files", "06. Split, Merge Binary Files\06. Split, Merge Binary Files.csproj", "{781CD87B-FFD3-410D-921E-EB5CD17C3FD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Folder Size", "07. Folder Size\07. Folder Size.csproj", "{8CA477E0-18A3-4826-B1D9-2BDCCFE6F8B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Folder Size", "07. Folder Size\07. Folder Size.csproj", "{8CA477E0-18A3-4826-B1D9-2BDCCFE6F8B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Odd Lines", "01.Odd Lines", "{AE0460FE-069E-43C9-BD80-8F5B7651FE15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.OddLines", "01.OddLines\01.OddLines.csproj", "{ABAB4DA0-82E9-443C-81AE-27E7F3B18072}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -517,6 +521,10 @@ Global
 		{8CA477E0-18A3-4826-B1D9-2BDCCFE6F8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CA477E0-18A3-4826-B1D9-2BDCCFE6F8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CA477E0-18A3-4826-B1D9-2BDCCFE6F8B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABAB4DA0-82E9-443C-81AE-27E7F3B18072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAB4DA0-82E9-443C-81AE-27E7F3B18072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAB4DA0-82E9-443C-81AE-27E7F3B18072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAB4DA0-82E9-443C-81AE-27E7F3B18072}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -649,6 +657,8 @@ Global
 		{DCA3222A-3506-4DE7-B56E-29994A7CAB4D} = {458887EE-879E-4640-B075-DD1A429848BE}
 		{781CD87B-FFD3-410D-921E-EB5CD17C3FD8} = {458887EE-879E-4640-B075-DD1A429848BE}
 		{8CA477E0-18A3-4826-B1D9-2BDCCFE6F8B5} = {458887EE-879E-4640-B075-DD1A429848BE}
+		{AE0460FE-069E-43C9-BD80-8F5B7651FE15} = {C9D51A3B-987E-42CE-AC34-0EC7CAF1D1B7}
+		{ABAB4DA0-82E9-443C-81AE-27E7F3B18072} = {AE0460FE-069E-43C9-BD80-8F5B7651FE15}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {62F0005C-B16B-4F01-BBCC-BA540659D250}
