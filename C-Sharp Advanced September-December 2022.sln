@@ -171,75 +171,93 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Sets and Dictionaries Ad
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Count Same Values in Array", "01. Count Same Values in Array", "{2A550C35-B23F-4711-8C11-F8FAB5B6311A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Count Same Values in Arrayy", "01. Count Same Values in Arrayy\01. Count Same Values in Arrayy.csproj", "{348DB6FA-FB6B-48CF-9725-93BF8714BE32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Count Same Values in Arrayy", "01. Count Same Values in Arrayy\01. Count Same Values in Arrayy.csproj", "{348DB6FA-FB6B-48CF-9725-93BF8714BE32}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Average Student Grades", "02. Average Student Grades", "{410BED60-4EFF-49E0-87A6-480626C44716}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Average Student Grades", "02. Average Student Grades\02. Average Student Grades.csproj", "{36F8777F-BEE7-431B-B053-ECD9BC0DBF54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Average Student Grades", "02. Average Student Grades\02. Average Student Grades.csproj", "{36F8777F-BEE7-431B-B053-ECD9BC0DBF54}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Largest 3 Numbers", "03. Largest 3 Numbers", "{EC0F1238-05AC-4220-8A96-B08BEE7751FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Largest 3 Numbers", "03. Largest 3 Numbers\03. Largest 3 Numbers.csproj", "{671ED949-B1BD-4B5B-B122-FDCDC378AE09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Largest 3 Numbers", "03. Largest 3 Numbers\03. Largest 3 Numbers.csproj", "{671ED949-B1BD-4B5B-B122-FDCDC378AE09}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Product Shop", "04. Product Shop", "{43B8E72A-9C78-4ECA-8965-02C91DFF5566}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Product Shop", "04. Product Shop\04. Product Shop.csproj", "{39DE1B50-93A4-4A0A-99C2-0539BC106C53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Product Shop", "04. Product Shop\04. Product Shop.csproj", "{39DE1B50-93A4-4A0A-99C2-0539BC106C53}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Cities by Continent and Country", "05. Cities by Continent and Country", "{81572044-04FB-4D69-AA74-B579226462B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Cities by Continent and Country", "05. Cities by Continent and Country\05. Cities by Continent and Country.csproj", "{848BD609-763C-4997-A934-F46F04EB9887}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Cities by Continent and Country", "05. Cities by Continent and Country\05. Cities by Continent and Country.csproj", "{848BD609-763C-4997-A934-F46F04EB9887}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06. Record Unique Names", "06. Record Unique Names", "{B34121DB-1A04-441E-BF23-3CFD55FCA379}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Record Unique Names", "06. Record Unique Names\06. Record Unique Names.csproj", "{62969F11-6403-4C2A-89F0-2831B8E691EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Record Unique Names", "06. Record Unique Names\06. Record Unique Names.csproj", "{62969F11-6403-4C2A-89F0-2831B8E691EA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07. Parking Lot", "07. Parking Lot", "{216F54D0-19C3-4F7B-B6FC-DA5762BA0840}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Parking Lot", "07. Parking Lot\07. Parking Lot.csproj", "{9E8DDF27-3363-4BEA-A65B-EEA0043AD07E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Parking Lot", "07. Parking Lot\07. Parking Lot.csproj", "{9E8DDF27-3363-4BEA-A65B-EEA0043AD07E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08. SoftUni Party", "08. SoftUni Party", "{196D1E9E-217D-433C-BC7E-AB4E6BD11541}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. SoftUni Party", "08. SoftUni Party\08. SoftUni Party.csproj", "{DBB87BF8-4AAC-4687-B58D-1ABA518C3198}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. SoftUni Party", "08. SoftUni Party\08. SoftUni Party.csproj", "{DBB87BF8-4AAC-4687-B58D-1ABA518C3198}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Unique Usernames", "01. Unique Usernames", "{AB6CB9C1-A406-459B-A639-F588B4556DF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Unique Usernames", "01. Unique Usernames\01. Unique Usernames.csproj", "{A24D866E-2B4C-42D3-8CE4-B220F2A02F2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Unique Usernames", "01. Unique Usernames\01. Unique Usernames.csproj", "{A24D866E-2B4C-42D3-8CE4-B220F2A02F2B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Sets of Elements", "02. Sets of Elements", "{72BE8D5C-F6E9-4FE0-A004-4CD8D09BD4A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Sets of Elements", "02. Sets of Elements\02. Sets of Elements.csproj", "{825743D2-2DD4-478C-900A-A4FFDEC5FCB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Sets of Elements", "02. Sets of Elements\02. Sets of Elements.csproj", "{825743D2-2DD4-478C-900A-A4FFDEC5FCB8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Periodic Table", "03. Periodic Table", "{5A311669-B651-49FE-939D-21855EAB270B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Periodic Table", "03. Periodic Table\03. Periodic Table.csproj", "{D5254B50-C5EE-43D2-AB35-9D321BC99443}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Periodic Table", "03. Periodic Table\03. Periodic Table.csproj", "{D5254B50-C5EE-43D2-AB35-9D321BC99443}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Even Times", "04. Even Times", "{906D9198-74B4-497E-A995-0D72413140B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Even Times", "04. Even Times\04. Even Times.csproj", "{FB1DC47B-E184-48D1-AA8F-6E2C2A2AA9A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Even Times", "04. Even Times\04. Even Times.csproj", "{FB1DC47B-E184-48D1-AA8F-6E2C2A2AA9A7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Count Symbols", "05. Count Symbols", "{79F986BD-23F4-4984-8A63-090CF2A7A415}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Count Symbols", "05. Count Symbols\05. Count Symbols.csproj", "{3426674E-4713-4CB8-B897-1045BCDE2E82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Count Symbols", "05. Count Symbols\05. Count Symbols.csproj", "{3426674E-4713-4CB8-B897-1045BCDE2E82}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06. Wardrobe", "06. Wardrobe", "{FB9797B7-D167-4CC2-8C26-2E5CA4ECB6AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Wardrobe", "06. Wardrobe\06. Wardrobe.csproj", "{5DD9AC13-C2A4-491F-B60F-E8F8F94B5E14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Wardrobe", "06. Wardrobe\06. Wardrobe.csproj", "{5DD9AC13-C2A4-491F-B60F-E8F8F94B5E14}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07. The V-Logger", "07. The V-Logger", "{1819F240-E093-4651-8A47-90EBC5F7BE94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. The V-Logger", "07. The V-Logger\07. The V-Logger.csproj", "{C748BD43-5526-475E-A759-A9502005B24B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. The V-Logger", "07. The V-Logger\07. The V-Logger.csproj", "{C748BD43-5526-475E-A759-A9502005B24B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08. Ranking", "08. Ranking", "{203E14B6-185F-41AA-B660-910C229D637A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Ranking", "08. Ranking\08. Ranking.csproj", "{1453B519-A35D-4825-A15F-4554775D5E99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Ranking", "08. Ranking\08. Ranking.csproj", "{1453B519-A35D-4825-A15F-4554775D5E99}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09. SoftUni Exam Results", "09. SoftUni Exam Results", "{EAB226F5-15BF-4E8C-99FA-3D900680A410}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. SoftUni Exam Results", "09. SoftUni Exam Results\09. SoftUni Exam Results.csproj", "{97225A94-AF09-4278-A084-FF0E35BDF02E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. SoftUni Exam Results", "09. SoftUni Exam Results\09. SoftUni Exam Results.csproj", "{97225A94-AF09-4278-A084-FF0E35BDF02E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10. ForceBook", "10. ForceBook", "{B4C27250-75A4-4A98-9350-FAE0A80C75BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. ForceBook", "10. ForceBook\10. ForceBook.csproj", "{6E0DCCFC-1568-494A-B4F6-4B7522A5668C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. ForceBook", "10. ForceBook\10. ForceBook.csproj", "{6E0DCCFC-1568-494A-B4F6-4B7522A5668C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.Streams, Files and Directories - Lab", "04.Streams, Files and Directories - Lab", "{C9D51A3B-987E-42CE-AC34-0EC7CAF1D1B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.Streams, Files and Dictories-Exe", "04.Streams, Files and Dictories-Exe", "{458887EE-879E-4640-B075-DD1A429848BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Odd Lines", "01. Odd Lines\01. Odd Lines.csproj", "{E05BC5D3-BD3D-40FF-87F3-721D8F3DEE61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Line Numbers", "02. Line Numbers\02. Line Numbers.csproj", "{E74C408A-E39F-40C9-9AA2-A277FD68BC23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Word Count", "03. Word Count\03. Word Count.csproj", "{00C3E9D9-2B03-4E2E-9BF3-DB34CC4CBA93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Merge Text Files", "04. Merge Text Files\04. Merge Text Files.csproj", "{DB1E1809-CA06-4CED-B82A-B3F8ED226A93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Extract Special Bytes", "05. Extract Special Bytes\05. Extract Special Bytes.csproj", "{DCA3222A-3506-4DE7-B56E-29994A7CAB4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Split, Merge Binary Files", "06. Split, Merge Binary Files\06. Split, Merge Binary Files.csproj", "{781CD87B-FFD3-410D-921E-EB5CD17C3FD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Folder Size", "07. Folder Size\07. Folder Size.csproj", "{8CA477E0-18A3-4826-B1D9-2BDCCFE6F8B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -471,6 +489,34 @@ Global
 		{6E0DCCFC-1568-494A-B4F6-4B7522A5668C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E0DCCFC-1568-494A-B4F6-4B7522A5668C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E0DCCFC-1568-494A-B4F6-4B7522A5668C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E05BC5D3-BD3D-40FF-87F3-721D8F3DEE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E05BC5D3-BD3D-40FF-87F3-721D8F3DEE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E05BC5D3-BD3D-40FF-87F3-721D8F3DEE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E05BC5D3-BD3D-40FF-87F3-721D8F3DEE61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E74C408A-E39F-40C9-9AA2-A277FD68BC23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74C408A-E39F-40C9-9AA2-A277FD68BC23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E74C408A-E39F-40C9-9AA2-A277FD68BC23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E74C408A-E39F-40C9-9AA2-A277FD68BC23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C3E9D9-2B03-4E2E-9BF3-DB34CC4CBA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C3E9D9-2B03-4E2E-9BF3-DB34CC4CBA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C3E9D9-2B03-4E2E-9BF3-DB34CC4CBA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C3E9D9-2B03-4E2E-9BF3-DB34CC4CBA93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB1E1809-CA06-4CED-B82A-B3F8ED226A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1E1809-CA06-4CED-B82A-B3F8ED226A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1E1809-CA06-4CED-B82A-B3F8ED226A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1E1809-CA06-4CED-B82A-B3F8ED226A93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA3222A-3506-4DE7-B56E-29994A7CAB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA3222A-3506-4DE7-B56E-29994A7CAB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA3222A-3506-4DE7-B56E-29994A7CAB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA3222A-3506-4DE7-B56E-29994A7CAB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{781CD87B-FFD3-410D-921E-EB5CD17C3FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781CD87B-FFD3-410D-921E-EB5CD17C3FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781CD87B-FFD3-410D-921E-EB5CD17C3FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781CD87B-FFD3-410D-921E-EB5CD17C3FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA477E0-18A3-4826-B1D9-2BDCCFE6F8B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA477E0-18A3-4826-B1D9-2BDCCFE6F8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA477E0-18A3-4826-B1D9-2BDCCFE6F8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA477E0-18A3-4826-B1D9-2BDCCFE6F8B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -594,6 +640,15 @@ Global
 		{97225A94-AF09-4278-A084-FF0E35BDF02E} = {EAB226F5-15BF-4E8C-99FA-3D900680A410}
 		{B4C27250-75A4-4A98-9350-FAE0A80C75BC} = {D258C3B9-5830-4BC3-A33C-8A52852D15A7}
 		{6E0DCCFC-1568-494A-B4F6-4B7522A5668C} = {B4C27250-75A4-4A98-9350-FAE0A80C75BC}
+		{C9D51A3B-987E-42CE-AC34-0EC7CAF1D1B7} = {F2559218-3A94-4247-A7F2-D4B91DD70E94}
+		{458887EE-879E-4640-B075-DD1A429848BE} = {F2559218-3A94-4247-A7F2-D4B91DD70E94}
+		{E05BC5D3-BD3D-40FF-87F3-721D8F3DEE61} = {458887EE-879E-4640-B075-DD1A429848BE}
+		{E74C408A-E39F-40C9-9AA2-A277FD68BC23} = {458887EE-879E-4640-B075-DD1A429848BE}
+		{00C3E9D9-2B03-4E2E-9BF3-DB34CC4CBA93} = {458887EE-879E-4640-B075-DD1A429848BE}
+		{DB1E1809-CA06-4CED-B82A-B3F8ED226A93} = {458887EE-879E-4640-B075-DD1A429848BE}
+		{DCA3222A-3506-4DE7-B56E-29994A7CAB4D} = {458887EE-879E-4640-B075-DD1A429848BE}
+		{781CD87B-FFD3-410D-921E-EB5CD17C3FD8} = {458887EE-879E-4640-B075-DD1A429848BE}
+		{8CA477E0-18A3-4826-B1D9-2BDCCFE6F8B5} = {458887EE-879E-4640-B075-DD1A429848BE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {62F0005C-B16B-4F01-BBCC-BA540659D250}

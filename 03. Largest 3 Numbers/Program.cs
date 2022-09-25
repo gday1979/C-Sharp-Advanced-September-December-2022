@@ -8,12 +8,15 @@ namespace _03._Largest_3_Numbers
     {
         static void Main(string[] args)
         {
-            List<int> numbers = new List<int>();
-            for (int i = 0; i < numbers.Count; i++)
-            {
-                string[] input = Console.ReadLine().Split();
+            int[] numbers = Console.ReadLine()
+  .Split()
+  .Select(int.Parse)
+  .OrderByDescending(n => n)
+  .ToArray();
+            int count = numbers.Length >= 3 ? 3 : numbers.Length;
+            for (int i = 0; i < count; i++)
+                Console.Write($"{numbers[i]} ");
 
-            }
 
         }
     }
