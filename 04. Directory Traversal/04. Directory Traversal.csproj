@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_04._Directory_Traversal</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="DirectoryTraversal.csproj" />
+  </ItemGroup>
+
+</Project>
