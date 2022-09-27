@@ -6,4 +6,8 @@
     <RootNamespace>_05._Extract_Special_Bytes</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="ExtractSpecialBytes.csproj" />
+  </ItemGroup>
+
 </Project>

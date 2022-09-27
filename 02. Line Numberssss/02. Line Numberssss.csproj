@@ -3,11 +3,11 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_04._Merge_Text_Files</RootNamespace>
+    <RootNamespace>_02._Line_Numberssss</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="MergeFiles.csproj" />
+    <None Include="LineNumbers.csproj" />
   </ItemGroup>
 
 </Project>

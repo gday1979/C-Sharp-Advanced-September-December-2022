@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _02._Line_Numbers
+namespace _01.Even_Liness
 {
     internal class Program
     {

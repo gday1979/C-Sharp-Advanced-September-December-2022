@@ -6,4 +6,8 @@
     <RootNamespace>_03._Word_Count</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="WordCount.csproj" />
+  </ItemGroup>
+
 </Project>

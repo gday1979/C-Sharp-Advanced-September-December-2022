@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _03._Copy_Binary_File
+namespace _03._Count_Uppercase_Words
 {
     internal class Program
     {

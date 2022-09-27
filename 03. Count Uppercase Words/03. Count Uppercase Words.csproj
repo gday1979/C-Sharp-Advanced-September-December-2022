@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_02._Line_Numbers</RootNamespace>
+    <RootNamespace>_03._Count_Uppercase_Words</RootNamespace>
   </PropertyGroup>
 
 </Project>

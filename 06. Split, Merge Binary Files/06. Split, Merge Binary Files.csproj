@@ -6,4 +6,8 @@
     <RootNamespace>_06._Split__Merge_Binary_Files</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="SplitMergeBinaryFile.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -6,4 +6,8 @@
     <RootNamespace>_01._Odd_Lines</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="OddLines.csproj" />
+  </ItemGroup>
+
 </Project>

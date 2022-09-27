@@ -6,4 +6,8 @@
     <RootNamespace>_07._Folder_Size</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="FolderSize.csproj" />
+  </ItemGroup>
+
 </Project>
