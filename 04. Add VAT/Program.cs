@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace _04._Add_VAT
 {
@@ -6,7 +7,10 @@ namespace _04._Add_VAT
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Func<decimal, string> addVAT = x => (x * 1.2M).ToString("F2");
+            Console.WriteLine(string.Join(Environment.NewLine,
+            Console.ReadLine().Split(", ", StringSplitOptions.RemoveEmptyEntries).Select(decimal.Parse).Select(addVAT)));
+
         }
     }
 }
