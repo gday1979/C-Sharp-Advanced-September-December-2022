@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _03._Cocktail_Party
+namespace _05.Special_Cars
 {
     internal class Program
     {

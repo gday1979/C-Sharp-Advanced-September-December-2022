@@ -2,9 +2,14 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _04._Car_Engine_And_Tires
+namespace CarManufacturer
 {
-    internal class Engine
+    public class Engine
     {
+        private int horsePower;
+        private double cubicCapacity;
+        public int HorsePower { get { return this.horsePower; } set { this.horsePower = value; } }
+        public double CubicCapacity { get { return this.cubicCapacity; } set { this.cubicCapacity = value; } }
+        public Engine(int horsePower, double cubicCapacity) { this.HorsePower = horsePower; this.CubicCapacity = cubicCapacity; }
     }
 }

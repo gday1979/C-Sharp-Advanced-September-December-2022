@@ -1,12 +1,15 @@
 ﻿using System;
 
-namespace _01._Define_a_Class_Person
+namespace DefiningClasses
 {
-    internal class Program
+    public class StartUp
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Person P = new Person("Pesho", 20);
+            Person G = new Person();
+            G.Name = "Gosho"; G.Age = 18;
+            Person S = new Person("Stamat", 43);
         }
     }
 }

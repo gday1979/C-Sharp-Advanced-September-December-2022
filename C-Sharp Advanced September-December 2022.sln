@@ -355,99 +355,93 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Car Constructors", "03.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Car Engine And Tires", "04. Car Engine And Tires", "{CD5EFAE6-E2D0-46F8-8999-AFB6504EEB25}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Car Engine And Tires", "04. Car Engine And Tires\04. Car Engine And Tires.csproj", "{511FB6FC-3079-4D65-A0CD-969A41918DBB}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Special Cars", "05. Special Cars", "{FA76E896-FC9A-4A47-BFAA-93FF9E722A3F}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Special Carss", "05. Special Carss\05. Special Carss.csproj", "{BF780C79-B7E7-4B06-9476-14CBC619D55E}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Define a Class Person", "01. Define a Class Person", "{DBEDC154-EFF2-44D5-8036-B6798A55516C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Define a Class Person", "01. Define a Class Person\01. Define a Class Person.csproj", "{3723266F-525A-4E64-B310-E1E966CEAB51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Define a Class Person", "01. Define a Class Person\01. Define a Class Person.csproj", "{3723266F-525A-4E64-B310-E1E966CEAB51}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Creating Constructors", "02. Creating Constructors", "{29CC375B-9973-4B7F-8D9B-898A9C052BEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Creating Constructors", "02. Creating Constructors\02. Creating Constructors.csproj", "{6402D64A-493F-451D-AC3A-F9F0D151E58C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Creating Constructors", "02. Creating Constructors\02. Creating Constructors.csproj", "{6402D64A-493F-451D-AC3A-F9F0D151E58C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Oldest Family Member", "03. Oldest Family Member", "{5580490A-1820-47DC-A2F1-EE56655CEFF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Oldest Family Member", "03. Oldest Family Member\03. Oldest Family Member.csproj", "{805124A0-4E4B-4124-88B0-5A5F5B852CF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Oldest Family Member", "03. Oldest Family Member\03. Oldest Family Member.csproj", "{805124A0-4E4B-4124-88B0-5A5F5B852CF9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Opinion Poll", "04. Opinion Poll", "{72A703F5-4BE5-4BEF-A12A-35F51C75B908}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Opinion Poll", "04. Opinion Poll\04. Opinion Poll.csproj", "{AEB1DF18-4A05-4924-AAC0-7DB002123DC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Opinion Poll", "04. Opinion Poll\04. Opinion Poll.csproj", "{AEB1DF18-4A05-4924-AAC0-7DB002123DC1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Date Modifier", "05. Date Modifier", "{479A7FAC-70F0-45F5-9FC8-7381B74495E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Date Modifier", "05. Date Modifier\05. Date Modifier.csproj", "{67C34F38-64F9-4C33-AC5F-567CEC96B39C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Date Modifier", "05. Date Modifier\05. Date Modifier.csproj", "{67C34F38-64F9-4C33-AC5F-567CEC96B39C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06. Speed Racing", "06. Speed Racing", "{91AAE4B9-1B8C-47A9-A5F1-7D7EBB21998B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Speed Racing", "06. Speed Racing\06. Speed Racing.csproj", "{93D07FE6-28A4-4C22-996A-A6C0DCACC18D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Speed Racing", "06. Speed Racing\06. Speed Racing.csproj", "{93D07FE6-28A4-4C22-996A-A6C0DCACC18D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07. Raw Data", "07. Raw Data", "{F87EF0AE-876F-43D2-9B9F-B8E162D4C3B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Raw Data", "07. Raw Data\07. Raw Data.csproj", "{ADBCA9AB-5165-4567-822C-EB7842ADA903}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Raw Data", "07. Raw Data\07. Raw Data.csproj", "{ADBCA9AB-5165-4567-822C-EB7842ADA903}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08. Car Salesman", "08. Car Salesman", "{FE2CA4D9-1104-4B80-8F4B-8C3757781670}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Car Salesman", "08. Car Salesman\08. Car Salesman.csproj", "{15A52300-88D7-4B8F-8A28-51EC8CBA02BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Car Salesman", "08. Car Salesman\08. Car Salesman.csproj", "{15A52300-88D7-4B8F-8A28-51EC8CBA02BF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09. Pokemon Trainer", "09. Pokemon Trainer", "{1FE362D1-AD99-48F7-AE32-852D9A80FF0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Pokemon Trainer", "09. Pokemon Trainer\09. Pokemon Trainer.csproj", "{0D2CB0DD-31CC-4987-B43A-892F460FA20B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Pokemon Trainer", "09. Pokemon Trainer\09. Pokemon Trainer.csproj", "{0D2CB0DD-31CC-4987-B43A-892F460FA20B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10. SoftUni Parking", "10. SoftUni Parking", "{1588F0B6-E485-4A22-9223-5B255B764A00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. SoftUni Parking", "10. SoftUni Parking\10. SoftUni Parking.csproj", "{7D160A58-C69B-4297-9D6D-7D971EFEA41A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. SoftUni Parking", "10. SoftUni Parking\10. SoftUni Parking.csproj", "{7D160A58-C69B-4297-9D6D-7D971EFEA41A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07.Generics - Lab", "07.Generics - Lab", "{27819572-7AC4-43ED-BB0E-5CC7FC6D5D27}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Box", "01. Box", "{B265043E-BAD6-4137-BE99-A8205007BF9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Box", "01. Box\01. Box.csproj", "{28EBABEC-646E-477A-97FF-C0A201FCDC15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Box", "01. Box\01. Box.csproj", "{28EBABEC-646E-477A-97FF-C0A201FCDC15}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Array Creator", "02. Array Creator", "{A8CD7543-663D-4332-AA7C-6DC1BB3D725F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Array Creator", "02. Array Creator\02. Array Creator.csproj", "{16A5DED4-CBF6-494C-8777-C97E10919676}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Array Creator", "02. Array Creator\02. Array Creator.csproj", "{16A5DED4-CBF6-494C-8777-C97E10919676}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Generic Scale", "03. Generic Scale", "{54C1E61F-9717-480B-9665-34E44CE0A69F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Generic Scale", "03. Generic Scale\03. Generic Scale.csproj", "{EC267FC6-DB4C-43E3-BBF3-3AE97F1BCA94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Generic Scale", "03. Generic Scale\03. Generic Scale.csproj", "{EC267FC6-DB4C-43E3-BBF3-3AE97F1BCA94}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07.Generics - Exercise", "07.Generics - Exercise", "{4613B316-21DE-474F-BE0D-F308DFE86FA1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Generic Box of String", "01. Generic Box of String", "{D233F803-E4B7-4049-9BA7-261502FD2C60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Generic Box of String", "01. Generic Box of String\01. Generic Box of String.csproj", "{F2471368-01F9-4CE4-AAA1-A224418DEECE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Generic Box of String", "01. Generic Box of String\01. Generic Box of String.csproj", "{F2471368-01F9-4CE4-AAA1-A224418DEECE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Generic Box of Integer", "02. Generic Box of Integer", "{DECA5B43-EEFF-40C2-8999-DBB0E8E552D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Generic Box of Integer", "02. Generic Box of Integer\02. Generic Box of Integer.csproj", "{CBADF75A-3A61-4154-9346-C8A697C45D44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Generic Box of Integer", "02. Generic Box of Integer\02. Generic Box of Integer.csproj", "{CBADF75A-3A61-4154-9346-C8A697C45D44}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Generic Swap Method Integer", "04. Generic Swap Method Integer", "{6B0CA3BB-4772-4D17-997D-36949E95CC38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Generic Swap Method Integer", "04. Generic Swap Method Integer\04. Generic Swap Method Integer.csproj", "{16B38184-8E98-4E1B-BC6B-1514D0F20832}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Generic Swap Method Integer", "04. Generic Swap Method Integer\04. Generic Swap Method Integer.csproj", "{16B38184-8E98-4E1B-BC6B-1514D0F20832}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Generic Count Method String", "05. Generic Count Method String", "{151266D8-6827-49BC-8E1C-A13D09890B62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Generic Count Method String", "05. Generic Count Method String\05. Generic Count Method String.csproj", "{22C3AF53-45C6-4AD0-9880-BBBDB71689A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Generic Count Method String", "05. Generic Count Method String\05. Generic Count Method String.csproj", "{22C3AF53-45C6-4AD0-9880-BBBDB71689A5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06. Generic Count Method Double", "06. Generic Count Method Double", "{B48C3A0E-5846-4A0C-BADF-0F922C0EFB31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Generic Count Method Double", "06. Generic Count Method Double\06. Generic Count Method Double.csproj", "{96E58731-75CB-4263-8830-B245EB4BA097}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Generic Count Method Double", "06. Generic Count Method Double\06. Generic Count Method Double.csproj", "{96E58731-75CB-4263-8830-B245EB4BA097}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07. Tuple", "07. Tuple", "{FD76DB24-3635-401F-A161-D79CC97C70FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Tuple", "07. Tuple\07. Tuple.csproj", "{C0095E17-1C2D-4BFA-BB3E-4752D247EDF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Tuple", "07. Tuple\07. Tuple.csproj", "{C0095E17-1C2D-4BFA-BB3E-4752D247EDF9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08. Threeuple", "08. Threeuple", "{415CF43D-BF93-4B83-A9A9-36FB74E66AD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Threeuple", "08. Threeuple\08. Threeuple.csproj", "{8E5E43EE-C28D-4DE7-A57F-3FAAA7A58740}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Threeuple", "08. Threeuple\08. Threeuple.csproj", "{8E5E43EE-C28D-4DE7-A57F-3FAAA7A58740}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09. Custom Linked List", "09. Custom Linked List", "{793E63CF-7D6B-417E-A354-B24A453FD42E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Custom Linked List", "09. Custom Linked List\09. Custom Linked List.csproj", "{58DB2FA4-1122-4674-AC99-77B2B214A95A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Custom Linked List", "09. Custom Linked List\09. Custom Linked List.csproj", "{58DB2FA4-1122-4674-AC99-77B2B214A95A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C Advanced Retake Exam - 14 April 2021", "C Advanced Retake Exam - 14 April 2021", "{9B040285-FBA3-4107-A60C-849DC9207CB2}"
 EndProject
@@ -455,15 +449,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exams", "Exams", "{D5537489
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Warm Winter", "01.Warm Winter", "{DFA0C6D5-6A98-4623-9D84-5A161135B045}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Warm Winter", "01.Warm Winter\01.Warm Winter.csproj", "{1B02AB9B-BF64-4754-8184-0385B0D1786F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Warm Winter", "01.Warm Winter\01.Warm Winter.csproj", "{1B02AB9B-BF64-4754-8184-0385B0D1786F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Super Mario", "02.Super Mario", "{8C84D2E1-81B2-4FED-95B4-51F4CAF61358}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Super Mario", "02.Super Mario\02.Super Mario.csproj", "{E6B88CF6-2725-4BB0-B62D-A85B81AD1361}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Super Mario", "02.Super Mario\02.Super Mario.csproj", "{E6B88CF6-2725-4BB0-B62D-A85B81AD1361}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Cocktail Party", "03. Cocktail Party", "{5A0B2688-EF0B-4AAF-A451-9DF7ABD2B4B5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Cocktail Party", "03. Cocktail Party\03. Cocktail Party.csproj", "{BA23B0E6-A5EB-44B5-8416-F9E435D4E481}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Special Cars", "05. Special Cars", "{A66C14DA-A285-4021-9611-791206C94133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Special Cars", "05.Special Cars\05.Special Cars.csproj", "{D7711CAB-C43A-47BE-8F38-2D48530D8EFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -819,14 +817,6 @@ Global
 		{3B9C18B4-B344-4B89-810A-63619B556242}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B9C18B4-B344-4B89-810A-63619B556242}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B9C18B4-B344-4B89-810A-63619B556242}.Release|Any CPU.Build.0 = Release|Any CPU
-		{511FB6FC-3079-4D65-A0CD-969A41918DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{511FB6FC-3079-4D65-A0CD-969A41918DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{511FB6FC-3079-4D65-A0CD-969A41918DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{511FB6FC-3079-4D65-A0CD-969A41918DBB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BF780C79-B7E7-4B06-9476-14CBC619D55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BF780C79-B7E7-4B06-9476-14CBC619D55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BF780C79-B7E7-4B06-9476-14CBC619D55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BF780C79-B7E7-4B06-9476-14CBC619D55E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3723266F-525A-4E64-B310-E1E966CEAB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3723266F-525A-4E64-B310-E1E966CEAB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3723266F-525A-4E64-B310-E1E966CEAB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -923,6 +913,10 @@ Global
 		{BA23B0E6-A5EB-44B5-8416-F9E435D4E481}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA23B0E6-A5EB-44B5-8416-F9E435D4E481}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA23B0E6-A5EB-44B5-8416-F9E435D4E481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7711CAB-C43A-47BE-8F38-2D48530D8EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7711CAB-C43A-47BE-8F38-2D48530D8EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7711CAB-C43A-47BE-8F38-2D48530D8EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7711CAB-C43A-47BE-8F38-2D48530D8EFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1103,9 +1097,6 @@ Global
 		{0B484944-F98F-4106-97B4-A9F6DD963B34} = {D8FE9015-29F5-415B-9EBC-62448BF658C2}
 		{3B9C18B4-B344-4B89-810A-63619B556242} = {0B484944-F98F-4106-97B4-A9F6DD963B34}
 		{CD5EFAE6-E2D0-46F8-8999-AFB6504EEB25} = {D8FE9015-29F5-415B-9EBC-62448BF658C2}
-		{511FB6FC-3079-4D65-A0CD-969A41918DBB} = {CD5EFAE6-E2D0-46F8-8999-AFB6504EEB25}
-		{FA76E896-FC9A-4A47-BFAA-93FF9E722A3F} = {D8FE9015-29F5-415B-9EBC-62448BF658C2}
-		{BF780C79-B7E7-4B06-9476-14CBC619D55E} = {FA76E896-FC9A-4A47-BFAA-93FF9E722A3F}
 		{DBEDC154-EFF2-44D5-8036-B6798A55516C} = {F9B2CF5C-49D7-4476-895F-A11CDD724136}
 		{3723266F-525A-4E64-B310-E1E966CEAB51} = {DBEDC154-EFF2-44D5-8036-B6798A55516C}
 		{29CC375B-9973-4B7F-8D9B-898A9C052BEE} = {F9B2CF5C-49D7-4476-895F-A11CDD724136}
@@ -1158,6 +1149,8 @@ Global
 		{E6B88CF6-2725-4BB0-B62D-A85B81AD1361} = {8C84D2E1-81B2-4FED-95B4-51F4CAF61358}
 		{5A0B2688-EF0B-4AAF-A451-9DF7ABD2B4B5} = {D5537489-9A1E-4CD1-A35C-87E218A1858D}
 		{BA23B0E6-A5EB-44B5-8416-F9E435D4E481} = {5A0B2688-EF0B-4AAF-A451-9DF7ABD2B4B5}
+		{A66C14DA-A285-4021-9611-791206C94133} = {D8FE9015-29F5-415B-9EBC-62448BF658C2}
+		{D7711CAB-C43A-47BE-8F38-2D48530D8EFC} = {A66C14DA-A285-4021-9611-791206C94133}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {62F0005C-B16B-4F01-BBCC-BA540659D250}
