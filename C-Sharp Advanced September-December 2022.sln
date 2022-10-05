@@ -355,9 +355,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Car Constructors", "03.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Car Engine And Tires", "04. Car Engine And Tires", "{CD5EFAE6-E2D0-46F8-8999-AFB6504EEB25}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Define a Class Person", "01. Define a Class Person", "{DBEDC154-EFF2-44D5-8036-B6798A55516C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. DefiningClasses", "01. DefiningClasses", "{DBEDC154-EFF2-44D5-8036-B6798A55516C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Define a Class Person", "01. Define a Class Person\01. Define a Class Person.csproj", "{3723266F-525A-4E64-B310-E1E966CEAB51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. DefiningClasses", "01. Define a Class Person\01. DefiningClasses.csproj", "{3723266F-525A-4E64-B310-E1E966CEAB51}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Creating Constructors", "02. Creating Constructors", "{29CC375B-9973-4B7F-8D9B-898A9C052BEE}"
 EndProject
