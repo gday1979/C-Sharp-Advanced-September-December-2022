@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _07._Raw_Data
+namespace _02._Array_Creator
 {
     internal class Program
     {
